@@ -32,11 +32,10 @@ I design custom embedded hardware and write low-level firmware from first princi
 ---
 
 ### 🌱 Community & Mentorship
-* **Robotics Instructor & Operations Lead:** Designing and teaching hands-on introductory robotics and electronics curricula (breadboarding, soldering, microcontrollers, and logic) for youth through community STEM initiatives.
+* **Robotics Instructor:** Designing and teaching hands-on introductory robotics and electronics curricula (breadboarding, soldering, microcontrollers, and logic) for youth through community STEM initiatives.
 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** your.email@example.com
-* **Portfolio / Upwork:** [your-link-here](https://your-link-here)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/atherxktk/)
+* **Email:** matherzaeem2004@gmail.com
