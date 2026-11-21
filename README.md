@@ -37,5 +37,5 @@ I design custom embedded hardware and write low-level firmware from first princi
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/atherxktk/)
+* **LinkedIn:** [linkedin.com/in/atherxktk](https://www.linkedin.com/in/atherxktk/)
 * **Email:** matherzaeem2004@gmail.com
