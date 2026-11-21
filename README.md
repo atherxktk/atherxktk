@@ -11,11 +11,8 @@ I design custom embedded hardware and write low-level firmware from first princi
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **PCB Design & EDA** | EasyEDA Pro, KiCad, Proteus Design Suite |
-| **Microcontrollers** | STM32 (F4 Series / Bare IC integration), ESP32 (WROOM modules), Arduino / AVR |
+| **Microcontrollers** | STM32 , ESP32 , Arduino|
 | **Firmware & Languages** | Embedded C, C++, STM32CubeMX, Bare-Metal / HAL |
-| **Communication & Peripherals** | UART, I2C, SPI, Hardware Timers, Quadrature Encoders, ADC/PWM |
-| **Hardware Engineering** | Motor Driver Interfacing (TB67H451, TB6612, L298N), Analog Signal Conditioning (RC Filters, Op-Amps), Level Shifting, Power Rail Architecture, RF Antenna Keepout Design |
-| **DFM / Manufacturing** | JLCPCB Basic/Extended BOM Optimization, 0805 SMD Selection, Multi-Layer Copper Pours & Trace Width Sizing |
 
 ---
 
